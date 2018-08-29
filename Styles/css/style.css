@@ -26,3 +26,14 @@
     background-color: red;
     margin: auto;
 }
+
+.trophy {
+    font-size: 35pt;
+    text-align: center;
+    color: silver;
+}
+
+.percentile {
+    font-size: 25pt;
+    text-align: center;
+}
