@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -811,3 +812,8 @@
   </body>
 </html>
 
+=======
+# responsiveapp
+
+Making a UI that is responsive using bootstrap
+>>>>>>> e1308e08f5c612f52ffcca13da3550a4fbc1147d
