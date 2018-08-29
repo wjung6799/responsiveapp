@@ -1,0 +1,28 @@
+.progress-box {
+    padding: 15px;
+}
+
+
+.insession-game, .progress-box {
+    padding: 15px;
+    background-color: aliceblue;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.insession-game {
+    height: 100px;
+}
+
+.img {
+    height: 50px;
+}
+
+.pie-chart {
+    border-radius: 50%;
+    width:80%;
+    height: width;
+    padding-top: 80%;
+    background-color: red;
+    margin: auto;
+}
