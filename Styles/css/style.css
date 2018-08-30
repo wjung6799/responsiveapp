@@ -1,17 +1,21 @@
 .progress-box {
     padding: 15px;
+    text-align: center;
 }
 
 
 .insession-game, .progress-box {
     padding: 15px;
-    background-color: aliceblue;
     border-radius: 15px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border: red;
 }
 
 .insession-game {
     height: 100px;
+    background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2015/12/realestateplugins.jpg")
 }
 
 .img {
@@ -29,11 +33,15 @@
 
 .trophy {
     font-size: 35pt;
-    text-align: center;
     color: silver;
 }
 
 .percentile {
     font-size: 25pt;
-    text-align: center;
 }
+
+.game-title {
+    text-align: center;
+    vertical-align: middle;
+}
+
