@@ -15,7 +15,7 @@
 
 .insession-game {
     height: 100px;
-    background-image: url("https://www.elegantthemes.com/blog/wp-content/uploads/2015/12/realestateplugins.jpg")
+    background-color: aqua;
 }
 
 .img {
@@ -45,3 +45,6 @@
     vertical-align: middle;
 }
 
+img {
+    width: 100%;
+}
